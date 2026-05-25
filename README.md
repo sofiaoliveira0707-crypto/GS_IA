@@ -1,6 +1,6 @@
 # Mission Control AI — EnviroSat
 
-## Integrante
+## Integrantes
 
 - Sofia Lima - 567824
 - Laura Olivera - 567277
@@ -36,7 +36,7 @@ O sistema foi desenvolvido para operadores de centros de controle ambiental resp
 1. Clone o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/sofiaoliveira0707-crypto/GS_IA.git
 ```
 
 2. Crie o ambiente virtual
