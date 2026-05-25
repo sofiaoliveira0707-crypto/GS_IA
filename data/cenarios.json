@@ -1,0 +1,28 @@
+{
+  "cenarios": [
+    {
+      "nome": "Operação normal",
+      "temperatura_sensor": 45,
+      "energia": 80,
+      "comunicacao": "estavel",
+      "buffer_imagens": 30,
+      "precisao_geolocalizacao": 3.5
+    },
+    {
+      "nome": "Temperatura crítica",
+      "temperatura_sensor": 88,
+      "energia": 60,
+      "comunicacao": "estavel",
+      "buffer_imagens": 45,
+      "precisao_geolocalizacao": 4.0
+    },
+    {
+      "nome": "Perda de comunicação",
+      "temperatura_sensor": 50,
+      "energia": 40,
+      "comunicacao": "perdida",
+      "buffer_imagens": 90,
+      "precisao_geolocalizacao": 6.0
+    }
+  ]
+}
