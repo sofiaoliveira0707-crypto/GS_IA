@@ -1,8 +1,9 @@
-# 🚀 Mission Control AI — EnviroSat
+# Mission Control AI — EnviroSat
 
 ## Integrante
 
-- Sofia Lim — RM: SEU_RM — Turma: SUA_TURMA
+- Sofia Lima - 567824
+- Laura Olivera - 567277
 
 ---
 
