@@ -9,14 +9,18 @@
 
 ## O que o projeto faz
 
-O Mission Control AI é um sistema de monitoramento espacial baseado em IA generativa que simula a operação do satélite EnviroSat. O sistema coleta dados simulados de telemetria, detecta anomalias automaticamente e utiliza o modelo gpt-oss:120b via Ollama Cloud para gerar análises inteligentes em linguagem natural.
+O Mission Control AI é um sistema inteligente de monitoramento espacial desenvolvido na trilha EnviroSat da Global Solution 2026.1.
+
+O projeto simula a operação de um satélite de observação ambiental através da geração de dados de telemetria, incluindo temperatura, energia, comunicação e precisão de geolocalização. A partir desses dados, o sistema detecta automaticamente situações críticas utilizando lógica Python e integra IA generativa via Ollama Cloud para produzir análises contextualizadas em linguagem natural.
+
+Além da análise técnica da missão, a IA também relaciona os problemas detectados aos impactos terrestres, como monitoramento de incêndios, fiscalização ambiental e combate ao desmatamento.
 
 ---
 
 ## Persona atendida
 
-O sistema foi desenvolvido para operadores de centros de controle ambiental responsáveis pelo monitoramento de incêndios, desmatamento e áreas protegidas.
-
+O sistema foi desenvolvido para operadores de centros de controle ambiental responsáveis pelo monitoramento de satélites de observação terrestre.
+A IA auxilia esses profissionais na interpretação rápida da telemetria da missão, permitindo identificar riscos operacionais e compreender os impactos que falhas no satélite podem causar em atividades ambientais críticas na Terra.
 ---
 
 ## Tecnologias utilizadas
