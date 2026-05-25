@@ -19,8 +19,7 @@ Além da análise técnica da missão, a IA também relaciona os problemas detec
 
 ## Persona atendida
 
-O sistema foi desenvolvido para operadores de centros de controle ambiental responsáveis pelo monitoramento de satélites de observação terrestre.
-A IA auxilia esses profissionais na interpretação rápida da telemetria da missão, permitindo identificar riscos operacionais e compreender os impactos que falhas no satélite podem causar em atividades ambientais críticas na Terra.
+O sistema foi desenvolvido para operadores de centros de controle ambiental responsáveis pelo monitoramento de satélites de observação terrestre. A IA auxilia esses profissionais na interpretação rápida da telemetria da missão, permitindo identificar riscos operacionais e compreender os impactos que falhas no satélite podem causar em atividades ambientais críticas na Terra.
 ---
 
 ## Tecnologias utilizadas
@@ -77,6 +76,14 @@ python main.py
 
 ---
 
+## System Prompt
+
+O system prompt utilizado pelo projeto está disponível no arquivo:
+
+`prompts/system_prompt.md`
+
+O prompt foi desenvolvido para orientar a IA a atuar como uma assistente de operações espaciais da trilha EnviroSat, interpretando dados de telemetria, identificando riscos técnicos e relacionando falhas orbitais aos impactos terrestres no monitoramento ambiental.
+
 ## Demonstração
 
 ![Banner](assets/screenshot_banner.png)
@@ -105,4 +112,4 @@ python main.py
 
 ## Vídeo de demonstração
 
-🎥 Link do YouTube aqui
+ Link do video de demonstração funcionando aqui: https://youtu.be/6ELHXwAfLA8
