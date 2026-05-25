@@ -75,6 +75,18 @@ python main.py
 ```
 
 ---
+## Proposta de Valor e impacto terrestre
+Qual problema terrestre real o EnviroSat resolve?
+O monitoramento em tempo real de focos de incêndio e desmatamento ilegal na Amazônia.
+
+Quem é o cliente final (quem paga pela solução)? 
+Órgãos governamentais como o IBAMA, ONGs de proteção ambiental ou empresas de crédito de carbono.
+
+Qual o impacto social/financeiro se o satélite falhar?
+A demora na detecção de um incêndio florestal pode destruir hectares de preservação e causar milhões em prejuízos ambientais e de infraestrutura.
+
+Por que a IA Generativa é melhor que gráficos estáticos? 
+Em vez de um operador ter que interpretar dezenas de tabelas de telemetria bruta no meio de uma crise, a IA consolida os dados textualmente e gera um plano de ação imediato em segundos.
 
 ## System Prompt
 
