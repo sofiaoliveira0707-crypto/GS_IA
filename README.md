@@ -1,7 +1,6 @@
 # Mission Control AI — EnviroSat
 
 ## Integrantes
-=======
 1 CCPB 
 
 - Sofia Lima - 567824
@@ -77,18 +76,8 @@ python main.py
 ```
 
 ---
-<<<<<<< HEAD
-# Proposta de Valor e Modelo de Negócio## 
- Qual problema real terrestre esta missão resolve? A missão EnviroSat busca auxiliar no monitoramento ambiental através da análise de dados orbitais relacionados a incêndios florestais, desmatamento e áreas protegidas.O sistema ajuda operadores a identificar rapidamente situações críticas, permitindo respostas mais ágeis em eventos ambientais e reduzindo o tempo de reação diante de anomalias detectadas pelo satélite.
- ---
- ## 2. Quem paga pela solução?
- A solução pode operar em modelo híbrido, envolvendo tanto setor público quanto privado.Órgãos governamentais como INPE, IBAMA e centros estaduais de monitoramento ambiental podem utilizar a plataforma para fiscalização e prevenção de desastres ambientais. Além disso, empresas privadas de análise ambiental, agronegócio e sustentabilidade também podem contratar o serviço para monitoramento de áreas específicas.
- ---
- ## 3. Métrica de impacto
-Se o satélite operar de forma saudável por 1 ano, o sistema pode contribuir para o monitoramento contínuo de milhares de hectares de áreas ambientais e de preservação.Com respostas mais rápidas a focos de incêndio e falhas ambientais, estima-se a redução de danos ambientais, emissão de CO₂ e perda de biodiversidade em regiões monitoradas. Além disso, o aumento da confiabilidade operacional melhora a velocidade de tomada de decisão em centros ambientais.
----
-## 4. Modelo de negócio
-=======
+
+
 ## Proposta de Valor e Modelo de Negócio
 # 1. Qual problema real terrestre esta missão resolve? 
 A missão EnviroSat busca auxiliar no monitoramento ambiental através da análise de dados orbitais relacionados a incêndios florestais, desmatamento e áreas protegidas. O sistema ajuda operadores a identificar rapidamente situações críticas, permitindo respostas mais ágeis em eventos ambientais e reduzindo o tempo de reação diante de anomalias detectadas pelo satélite.
@@ -100,7 +89,6 @@ A missão EnviroSat busca auxiliar no monitoramento ambiental através da análi
 Se o satélite operar de forma saudável por 1 ano, o sistema pode contribuir para o monitoramento contínuo de aproximadamente 50 mil hectares de áreas ambientais e de preservação. Com respostas mais rápidas a focos de incêndio e falhas ambientais, estima-se a redução de danos ambientais, emissão de CO₂ e perda de biodiversidade em regiões monitoradas. Além disso, o aumento da confiabilidade operacional melhora a velocidade de tomada de decisão em centros ambientais.
 ---
 # 4. Modelo de negócio
->>>>>>> fc64b77e70604020232ab0f02726bdc61562ae43
 O projeto pode funcionar no modelo SaaS (Software as a Service), oferecendo acesso à plataforma de monitoramento mediante assinatura.Outra possibilidade é o modelo de “dados como serviço”, no qual instituições públicas ou privadas contratam acesso às análises ambientais geradas a partir dos dados orbitais e da IA integrada ao sistema.
 
 ## System Prompt
@@ -110,10 +98,8 @@ O system prompt utilizado pelo projeto está disponível no arquivo:
 `prompts/system_prompt.md`
 
 O prompt foi desenvolvido para orientar a IA a atuar como uma assistente de operações espaciais da trilha EnviroSat, interpretando dados de telemetria, identificando riscos técnicos e relacionando falhas orbitais aos impactos terrestres no monitoramento ambiental.
-<<<<<<< HEAD
-=======
 Os dados reais da telemetria são injetados dinamicamente no prompt enviado ao modelo gpt-oss:120b.
->>>>>>> fc64b77e70604020232ab0f02726bdc61562ae43
+
 
 ## Demonstração
 
@@ -147,8 +133,4 @@ Os dados reais da telemetria são injetados dinamicamente no prompt enviado ao m
 
 ## Vídeo de demonstração
 
-<<<<<<< HEAD
  Link do video de demonstração funcionando aqui: https://youtu.be/6ELHXwAfLA8
-=======
- Link do video de demonstração funcionando aqui: https://youtu.be/6ELHXwAfLA8
->>>>>>> fc64b77e70604020232ab0f02726bdc61562ae43
