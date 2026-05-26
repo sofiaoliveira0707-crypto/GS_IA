@@ -108,12 +108,16 @@ AÇÕES AUTOMÁTICAS:
         dados = coletar()
         resultado_alertas = avaliar(dados)
 
-        self.ultima_telemetria = dados
-        self.ultimos_alertas = resultado_alertas
+        if self.ultima_telemetria:
+            if self.ultima_telemetria:
+                dados = self.ultima_telemetria
+            else:
+                dados = coletar()
 
+            resultado_alertas = avaliar(dados)
         prompt = f"""
-Usuário perguntou:
-{pergunta_usuario}
+            Usuário perguntou:
+            {pergunta_usuario}
 
 Dados atuais da telemetria do satélite EnviroSat:
 - Temperatura do sensor térmico: {dados["temperatura_sensor"]} °C
