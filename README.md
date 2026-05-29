@@ -133,4 +133,4 @@ Os dados reais da telemetria são injetados dinamicamente no prompt enviado ao m
 
 ## Vídeo de demonstração
 
- Link do video de demonstração funcionando aqui: https://youtu.be/6ELHXwAfLA8
+ Link do video de demonstração funcionando aqui: https://youtu.be/Ly_dd2C0MpE
